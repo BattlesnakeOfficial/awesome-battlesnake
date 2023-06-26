@@ -164,6 +164,7 @@ community have decided to share that they use for their snakes. Juicy secrets!_
 - [Mojave by smallsco](https://github.com/smallsco/mojave) - A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2017 and up, human players, built-in opponents, and more!
 - [Snek-Spec by mike-anderson](https://github.com/mike-anderson/snek-spec) - Generates boards from ASCII plain text mockups, designed to be used in typescript spec testing or as a standalone command line tool
 - [Stats Tracker](https://lajeunesse.dev:3000/login) - Dashboard to follow your snake rating throughout time. Username/password: tester
+- [Battlesnake Viewer](https://github.com/und3f/battlesnake-viewer) - CLI tool that renders Battlesnake Game State board in different formats (has support of the Snek-Spec).
 
 [⬆️ Back to top](#contents)
 
